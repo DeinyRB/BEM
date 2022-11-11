@@ -41,3 +41,33 @@
 .principal__item__titulo {
     font-size: 80px;
 }
+
+.desarrollo {
+    width: 100%;
+    border: 1px solid purple;
+}
+
+.desarrollo__titulo {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.desarrollo__parrafo {
+    text-align: center;
+}
+
+.desarrollo__form {
+    margin-left: 5px;
+    margin-top: 50px;
+}
+
+.desarrollo__form__box__label {
+    font-size: 50px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.desarrollo__form__box__input {
+    padding: 8px 100px;
+    margin-left: 30px;
+   border: 0.5px solid purple;
+}
