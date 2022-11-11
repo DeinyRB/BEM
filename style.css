@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+/*Header*/
+
 .header {
     background:lightskyblue;
     padding: 10px;
@@ -22,3 +24,20 @@
     font-style: italic;
 }
 
+/*maim*/
+
+.principal {
+    display: flex;
+}
+
+.principal__item {
+    width: 100%;
+    margin: 0px;
+    padding: 2%;
+    text-align: center;
+    border: 1px solid purple;
+}
+
+.principal__item__titulo {
+    font-size: 80px;
+}
